@@ -1,0 +1,14 @@
+cholboostC 	- faktoryzacja Cholesky'ego		- UBLAS - charakterstyka częściowa
+cholboostO 	- faktoryzacja Cholesky'ego 	- UBLAS - charakterstyka ogólna
+cholcC1		- faktoryzacja Cholesky'ego		- C		- charakterstyka częściowa
+cholcC2		- faktoryzacja Cholesky'ego		- C		- charakterstyka częściowa	
+cholcO		- faktoryzacja Cholesky'ego		- C		- charakterstyka ogólna	
+cholmtboost	- faktoryzacja Cholesky'ego		- UBLAS + openMP
+cholmtc		- faktoryzacja Cholesky'ego		- C + openMP
+cholmpi		- faktoryzacja Cholesky'ego		- C + MPI
+converter	- konwerter postaci UBLAS na C
+frobboost	- obliczanie normy Frobeniusa dla UBLAS
+frobc		- obliczanie normy Frobeniusa dla C
+generator	- generator macierzy dodatnioskierowanych UBLAS
+outputter	- pomoc przy generacji odpowiednich wyników
+validboost	- wybiera macierze dodatnioskierowany z macierzy nieujemnie skierowanych
